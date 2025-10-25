@@ -1,0 +1,2 @@
+# Obsidian Template
+Configure the [Obsidian-Git](https://github.com/Vinzent03/obsidian-git) plugin to automatically commit and push changes to the `obsidian-auto-backup` branch. Then manually merge the notes into the `master` branch to maintain a clean and curated history.

@@ -1,5 +1,5 @@
 # Obsidian specific settings
-.obsidian/
+.obsidian/*
 !.obsidian/app.json
 !.obsidian/appearance.json
 !.obsidian/core-plugins.json
