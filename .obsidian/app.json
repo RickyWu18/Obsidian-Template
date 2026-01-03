@@ -1,1 +1,6 @@
-{}
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true
+}
